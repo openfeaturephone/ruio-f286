@@ -40,7 +40,10 @@ All under [github.com/openfeaturephone](https://github.com/openfeaturephone/):
   client library in C.
 - [f286-telegram](https://github.com/openfeaturephone/f286-telegram): the Telegram app for the
   F286, built on tinymtproto.
-- [fplinux](https://github.com/openfeaturephone/fplinux): the Linux port the hardware notes feed.
+- [fplinux](https://github.com/openfeaturephone/fplinux/tree/ruio-f286): a fork of FPLinux with the
+  F286 port on the `ruio-f286` branch. This is where the hardware notes end up as drivers.
+- [f286-bringup](https://github.com/openfeaturephone/f286-bringup): the radio bring-up tools, test
+  rig and status notes that go with the port.
 
 ## Conventions
 
